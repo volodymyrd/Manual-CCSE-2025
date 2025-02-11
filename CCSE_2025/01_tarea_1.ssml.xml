@@ -1,21 +1,19 @@
 <speak>
-    <prosody rate="90%">
+    <prosody rate="80%">
         TAREA 1
         <break time="1s"/>
     </prosody>
-    <prosody rate="90%">
+    <prosody rate="80%">
         GOBIERNO, LEGISLACIÓN Y PARTICIPACIÓN CIUDADANA
         <break time="1s"/>
     </prosody>
-    <prosody rate="90%">
+    <prosody rate="80%">
         PODERES DEL ESTADO, GOBIERNO E INSTITUCIONES
         <break time="1s"/>
     </prosody>
-    <prosody rate="90%">
-        La Constitución española fue aprobada en referéndum por los españoles el 6 de diciembre de
-        1978.
-        La Constitución es la «ley de leyes» o ley fundamental de España, a partir de la cual se establece
-        el ordenamiento de todo el sistema jurídico español.
+    <prosody rate="80%">
+        La Constitución española fue aprobada en referéndum por los españoles el 6 de diciembre de 1978.
+        La Constitución es la «ley de leyes» o ley fundamental de España, a partir de la cual se establece el ordenamiento de todo el sistema jurídico español.
         <break time="1s"/>
 
         Los principios en los que se basa la Constitución española son:
@@ -24,26 +22,23 @@
         • El desarrollo de un sistema social y económico para una vida digna.
         • La colaboración y cooperación entre todos los pueblos de la Tierra.
 
-        El Reino de España es un Estado social y democrático de Derecho con la forma política de
-        monarquía parlamentaria. Tiene como valores superiores la libertad, la justicia, la igualdad y
-        el pluralismo político. La soberanía nacional reside en el pueblo español, del que proceden los
-        poderes del Estado.
+        El Reino de España es un Estado social y democrático de Derecho con la forma política de monarquía parlamentaria.
+        Tiene como valores superiores la libertad, la justicia, la igualdad y el pluralismo político.
+        La soberanía nacional reside en el pueblo español, del que proceden los poderes del Estado.
 
-        España es una patria común e indivisible, y la Constitución reconoce y garantiza el derecho a la
-        autonomía de las nacionalidades y regiones que la componen, y la solidaridad entre todas ellas.
+        España es una patria común e indivisible,
+        y la Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la componen,
+        y la solidaridad entre todas ellas.
 
-        El Tribunal Constitucional interpreta la Constitución española. Es independiente de los
-        poderes del Estado.
+        El Tribunal Constitucional interpreta la Constitución española. Es independiente de los poderes del Estado.
 
         La bandera de España tiene tres franjas (roja, amarilla y roja).
-        Cada comunidad autónoma tiene su propia bandera y debe
-        utilizarla junto a la española en sus edificios públicos y en
-        sus actos oficiales.
+        Cada comunidad autónoma tiene su propia bandera y debe utilizarla junto a la española en sus edificios públicos y en sus actos oficiales.
 
         En la Constitución se indica que el castellano es la lengua oficial de España.
         Todos los españoles tienen el derecho de usarla y el deber de conocerla.
-        Las demás lenguas españolas serán también oficiales en las comunidades autónomas donde se usen, de acuerdo
-        con sus respectivos estatutos.
+        Las demás lenguas españolas serán también oficiales en las comunidades autónomas donde se usen,
+        de acuerdo con sus respectivos estatutos.
         En España la enseñanza de las lenguas cooficiales es competencia de las comunidades autónomas.
     </prosody>
 </speak>
