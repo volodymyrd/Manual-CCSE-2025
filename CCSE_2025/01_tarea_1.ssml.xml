@@ -167,4 +167,25 @@
 
         Las leyes, una vez aprobadas, necesitan desarrollarse con reglamentos u órdenes ministeriales.
     </prosody>
+    <prosody rate="80%">
+        PODER JUDICIAL
+        <break time="1s"/>
+    </prosody>
+    <prosody rate="80%">
+        Está compuesto por jueces y magistrados y tiene la función de administrar la justicia,
+        que proviene del pueblo.
+        La base de la organización de los tribunales es el principio de unidad jurisdiccional.
+
+        El Consejo General del Poder Judicial (CGPJ) es el órgano de gobierno de los jueces.
+        Es un órgano autónomo y sirve para garantizar la independencia de los jueces y tribunales.
+    </prosody>
+    <prosody rate="80%">
+        RELIGIÓN
+        <break time="1s"/>
+    </prosody>
+    <prosody rate="80%">
+        La Constitución garantiza la libertad religiosa de los individuos y las comunidades, y en este sentido,
+        el Estado español es aconfesional.
+        No reconoce ninguna religión como oficial, aunque hay una fuerte tradición católica.
+    </prosody>
 </speak>
