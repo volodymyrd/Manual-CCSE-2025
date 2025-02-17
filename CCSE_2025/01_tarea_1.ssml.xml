@@ -188,4 +188,34 @@
         el Estado español es aconfesional.
         No reconoce ninguna religión como oficial, aunque hay una fuerte tradición católica.
     </prosody>
+    <prosody rate="80%">
+        LAS FUERZAS ARMADAS Y LAS FUERZAS Y CUERPOS DE SEGURIDAD
+        <break time="1s"/>
+    </prosody>
+    <prosody rate="80%">
+        1) Las Fuerzas Armadas tienen como misión garantizar la soberanía
+        y la independencia de España, defender su integridad territorial, además del orden constitucional.
+        Su máxima autoridad es el rey, aunque la dirección corresponde al Ministerio de Defensa.
+        Están compuestas por el Ejército de Tierra, el Ejército del Aire y la Armada.
+        Las Fuerzas Armadas, entre otras acciones internacionales, participan en misiones de paz de la ONU desde 1989.
+
+        2) Las Fuerzas y Cuerpos de Seguridad tienen como función proteger el libre ejercicio de los derechos
+        y libertades y garantizar la seguridad ciudadana.
+        • De ámbito nacional (Fuerzas y Cuerpos de Seguridad del Estado):
+        Cuerpo Nacional de Policía y Guardia Civil. El mando superior corresponde al ministro del Interior.
+        • De ámbito autonómico: Ertzaintza en el País Vasco, Mossos d’Esquadra en Cataluña,
+        Policía Foral de Navarra, Cuerpo General de la Policía de Canarias.
+        • De ámbito local: Policía local.
+
+        Cada uno de ellos tiene su área de actuación concreta.
+        Entre las funciones de la Policía Nacional está la expedición del documento nacional de identidad
+        y del pasaporte,
+        cuestiones de extranjería y el control de entrada y salida del territorio nacional de españoles y extranjeros.
+
+        Por su parte, la Guardia Civil tiene como funciones, entre otras,
+        vigilar el tráfico en las vías públicas interurbanas, así como en puertos, aeropuertos, fronteras y costas.
+
+        Entre las funciones de la Policía local están la protección de las autoridades locales,
+        la regulación del tráfico en el casco urbano y la prestación de auxilio en caso de accidente
+    </prosody>
 </speak>
