@@ -287,4 +287,29 @@
         El Estado posee competencias exclusivas sobre materias como nacionalidad, extranjería,
         inmigración, relaciones internacionales y administración de justicia.
     </prosody>
+
+    <prosody rate="80%">
+        COMUNIDADES Y CIUDADES AUTÓNOMAS
+        <break time="1s"/>
+
+        Son 17 las comunidades y 2 las ciudades autónomas de España.
+        La base para su formación fueron las características históricas,
+        culturales y económicas comunes de provincias limítrofes.
+        La norma institucional básica de cada comunidad es el Estatuto de Autonomía, en el que se establece:
+
+        • el nombre de la comunidad que corresponde a su identidad histórica.
+        • la delimitación de su territorio.
+        • el nombre, organización y sede de las instituciones autónomas propias.
+        • las competencias asumidas dentro del marco establecido en la Constitución
+        y las bases para el traspaso de los servicios correspondientes a la comunidad.
+        Entre las más significativas se encuentran la sanidad y la educación
+
+        Las instituciones de las comunidades autónomas son:
+        la asamblea legislativa (o parlamento autonómico),
+        elegida por sufragio universal entre sus habitantes en las elecciones autonómicas;
+        el consejo de gobierno, con funciones ejecutivas sobre las competencias transferidas;
+        y el presidente, que además de su función ejecutiva, representa a la comunidad autónoma.
+
+        El representante del Estado en una comunidad autónoma es el delegado del Gobierno.
+    </prosody>
 </speak>
