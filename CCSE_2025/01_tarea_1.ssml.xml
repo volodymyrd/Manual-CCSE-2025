@@ -81,6 +81,7 @@
         Juan Carlos I fue rey de España desde el 22 de noviembre de 1975 hasta el 19 de junio de 2014.
         Con su reinado se restauró la democracia en España y el país se integró en la Unión Europea.
         En junio del año 2014, fue proclamado rey su hijo, Felipe VI.
+        <break time="1s"/>
     </prosody>
 
     <prosody rate="80%">
@@ -115,6 +116,7 @@
         <break time="1s"/>
         En la Constitución se establece la separación de los poderes ejecutivo, legislativo y judicial,
         lo que garantiza el funcionamiento de las instituciones españolas.
+        <break time="1s"/>
     </prosody>
 
     <prosody rate="80%">
@@ -130,6 +132,7 @@
         El presidente del Gobierno tiene su residencia oficial en el Palacio de la Moncloa.
         Los miembros del Gobierno juran
         o prometen su cargo ante un ejemplar de la Constitución española en presencia del rey.
+        <break time="1s"/>
     </prosody>
 
     <prosody rate="80%">
@@ -166,7 +169,9 @@
         (la propone el Congreso, el Senado, una comunidad autónoma o un mínimo de 500 000 ciudadanos).
 
         Las leyes, una vez aprobadas, necesitan desarrollarse con reglamentos u órdenes ministeriales.
+        <break time="1s"/>
     </prosody>
+
     <prosody rate="80%">
         PODER JUDICIAL
         <break time="1s"/>
@@ -178,7 +183,9 @@
 
         El Consejo General del Poder Judicial (CGPJ) es el órgano de gobierno de los jueces.
         Es un órgano autónomo y sirve para garantizar la independencia de los jueces y tribunales.
+        <break time="1s"/>
     </prosody>
+
     <prosody rate="80%">
         RELIGIÓN
         <break time="1s"/>
@@ -187,7 +194,9 @@
         La Constitución garantiza la libertad religiosa de los individuos y las comunidades, y en este sentido,
         el Estado español es aconfesional.
         No reconoce ninguna religión como oficial, aunque hay una fuerte tradición católica.
+        <break time="1s"/>
     </prosody>
+
     <prosody rate="80%">
         LAS FUERZAS ARMADAS Y LAS FUERZAS Y CUERPOS DE SEGURIDAD
         <break time="1s"/>
@@ -217,5 +226,65 @@
 
         Entre las funciones de la Policía local están la protección de las autoridades locales,
         la regulación del tráfico en el casco urbano y la prestación de auxilio en caso de accidente
+        <break time="1s"/>
+    </prosody>
+
+    <prosody rate="80%">
+        ORGANISMOS ESPAÑOLES
+        <break time="1s"/>
+    </prosody>
+    <prosody rate="80%">
+        Son órganos consultivos del Gobierno el Consejo de Estado y el Consejo Económico y Social
+        <break time="1s"/>
+
+        Algunos ejemplos de organismos que pertenecen a ministerios de España son
+        la Agencia Española de Meteorología (AEMET), la Agencia Tributaria (AEAT),
+        la Dirección General de Tráfico (DGT),
+        el Instituto de Comercio Exterior de España (ICEX), el Instituto Cervantes, el Instituto de las Mujeres,
+        el Instituto Nacional de Estadística (INE), Patrimonio Nacional, Turespaña, etc.
+
+        El Defensor del Pueblo y el Tribunal de Cuentas dependen de las Cortes Generales.
+    </prosody>
+
+    <prosody rate="80%">
+        DEFENSOR DEL PUEBLO
+        <break time="1s"/>
+
+        El Defensor del Pueblo garantiza el respeto de los derechos fundamentales
+        y se hace eco de las quejas de los ciudadanos por el mal funcionamiento de las administraciones.
+
+        El Defensor del Pueblo es elegido por el Congreso de los Diputados y el Senado.
+        Su mandato es de cinco años, y no recibe órdenes ni instrucciones de ninguna autoridad.
+        Cualquier ciudadano puede presentar una queja al Defensor del Pueblo y solicitar su intervención,
+        que es gratuita,
+        para que investigue cualquier actuación presuntamente irregular de la Administración pública española
+        o sus agentes.
+    </prosody>
+
+    <prosody rate="80%">
+        AGENCIA TRIBUTARIA Y TRIBUNAL DE CUENTAS
+        <break time="1s"/>
+
+        La Agencia Tributaria es la encargada de la recaudación de impuestos
+        y la aplicación del sistema tributario en general, para contribuir al sostenimiento de los gastos públicos.
+
+        El Tribunal de Cuentas controla las finanzas y presupuesto de las administraciones,
+        así como la contabilidad de los partidos políticos.
+    </prosody>
+
+    <prosody rate="80%">
+        ORGANIZACIÓN TERRITORIAL Y ADMINISTRATIVA
+        <break time="1s"/>
+
+        En la Constitución de 1978 se establece que España se organiza a partir de ese momento en comunidades autónomas,
+        provincias y municipios.
+        Se distinguen tres niveles de organización de la Administración: central (del Estado),
+        autonómica y local (en este nivel se incluyen las provincias y los municipios).
+
+        En cada uno de los niveles las entidades de gobierno tienen autonomía
+        para la gestión de sus respectivos intereses, de acuerdo con la ley.
+
+        El Estado posee competencias exclusivas sobre materias como nacionalidad, extranjería,
+        inmigración, relaciones internacionales y administración de justicia.
     </prosody>
 </speak>
